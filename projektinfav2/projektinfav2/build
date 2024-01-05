@@ -1,0 +1,2 @@
+eval "g++ main.cpp -o arkanoid -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio";
+eval "g++ editor.cpp -o arkanoid-editor -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio";

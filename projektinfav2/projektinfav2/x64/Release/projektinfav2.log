@@ -1,0 +1,199 @@
+﻿  main.cpp
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(12,44): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(12,44): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(12,44): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(12,44): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(12,44): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(12,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(12,36): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(12,36): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(12,36): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(12,36): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(13,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(13,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(18,31): warning C4244: "return": konwersja z "const T" do "int", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(18,31): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(18,31): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(18,31): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(18,31): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(23,31): warning C4244: "return": konwersja z "const T" do "int", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(23,31): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(23,31): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(23,31): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(23,31): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(33,17): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(43,17): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(48,48): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(48,48): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(48,48): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(48,48): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(48,48): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(48,39): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(48,39): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(48,39): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(48,39): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(48,39): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(53,64): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(53,64): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(53,64): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(53,64): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(53,64): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(53,55): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(53,55): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(53,55): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(53,55): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(53,55): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(75,44): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(75,44): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(75,44): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(75,44): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(75,44): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(75,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(75,36): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(75,36): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(75,36): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(75,36): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(80,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\player.h(80,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(105,13): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(8,19): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(9,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(9,21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(18,29): warning C4244: "return": konwersja z "const T" do "int", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(18,29): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(18,29): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(18,29): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(18,29): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(24,29): warning C4244: "return": konwersja z "const T" do "int", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(24,29): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(24,29): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(24,29): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(24,29): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(29,42): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(58,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(58,21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(73,14): warning C4305: "=": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(83,1): warning C4305: "+=": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\ball.h(88,1): warning C4305: "-=": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(7,37): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(7,37): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(7,37): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(7,37): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(7,37): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(7,31): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(7,31): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(7,31): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(7,31): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(7,31): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(8,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(8,22): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(51,30): warning C4244: "return": konwersja z "const T" do "int", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(51,30): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(51,30): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(51,30): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(51,30): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(56,30): warning C4244: "return": konwersja z "const T" do "int", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(56,30): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(56,30): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(56,30): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(56,30): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(61,26): warning C4244: "return": konwersja z "const T" do "int", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(61,26): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(61,26): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(61,26): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(61,26): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(66,26): warning C4244: "return": konwersja z "const T" do "int", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(66,26): warning C4244:         with
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(66,26): warning C4244:         [
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(66,26): warning C4244:             T=float
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\brick.h(66,26): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\powerup.h(14,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\powerup.h(14,22): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\powerup.h(19,18): warning C4305: "argument": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\main.cpp(191,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\main.cpp(488,22): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\julin\Desktop\programowanie\projektinfav2\projektinfav2\main.cpp(502,20): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+  Trwa generowanie kodu
+  1 of 543 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  projektinfav2.vcxproj -> C:\Users\julin\Desktop\programowanie\projektinfav2\x64\Release\projektinfav2.exe
