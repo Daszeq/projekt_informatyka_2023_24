@@ -98,10 +98,41 @@ public:
 		window.draw(_ball);
 	}
 
+	void saveBallToFile()
+	{
+		std::ofstream file("ball_save.txt");
+
+		file << getX() << " " << getY() << " " << original_speed << " " << speed << " " << angle << " " << time << "\n";
+
+		file.close();
+	}
+
+
+	void loadBallFromFile()
+	{
+		std::ifstream file("ball_save.txt");
+
+		int loadedX, loadedY;
+		short loadedOriginalSpeed, loadedSpeed;
+		double loadedAngle;
+		float loadedTime;
+
+		if (file >> loadedX >> loadedY >> loadedOriginalSpeed >> loadedSpeed >> loadedAngle >> loadedTime)
+		{
+			setPosition(loadedX, loadedY);
+			original_speed = loadedOriginalSpeed;
+			speed = loadedSpeed;
+			angle = loadedAngle;
+			time = loadedTime;
+		}
+
+		file.close();
+	}
+
 private:
 	short original_speed;
 	short speed=0;
-	double angle=2.00;
+	double angle=0.00;
 	float time=0.07;
 	sf::CircleShape _ball;
 };

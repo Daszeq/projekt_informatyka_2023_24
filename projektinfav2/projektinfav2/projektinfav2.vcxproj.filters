@@ -18,16 +18,20 @@
     <ClCompile Include="main.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
-    <ClCompile Include="test.cpp">
-      <Filter>Pliki źródłowe</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="menu.h">
+    <ClInclude Include="buttons.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
-    <ClInclude Include="menu2.h">
+    <ClInclude Include="results.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="wall_save.txt" />
+    <Text Include="player_save.txt" />
+    <Text Include="powerup_save.txt" />
+    <Text Include="ball_save.txt" />
+    <Text Include="stats.txt" />
   </ItemGroup>
 </Project>

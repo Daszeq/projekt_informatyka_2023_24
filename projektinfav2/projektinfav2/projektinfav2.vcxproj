@@ -131,11 +131,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="menu.h" />
-    <ClInclude Include="menu2.h" />
+    <ClInclude Include="buttons.h" />
+    <ClInclude Include="results.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ball_save.txt" />
+    <Text Include="player_save.txt" />
+    <Text Include="powerup_save.txt" />
+    <Text Include="stats.txt" />
+    <Text Include="wall_save.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

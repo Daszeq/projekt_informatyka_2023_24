@@ -84,6 +84,34 @@ public:
 	{
 		window.draw(_player);
 	}
+	void savePlayerToFile()
+	{
+		std::ofstream file("player_save.txt");
+
+		file << getX() << " " << getY() << " " << getW() << " " << vel << "\n";
+
+		file.close();
+	}
+
+
+	void loadPlayerFromFile()
+	{
+		std::ifstream file("player_save.txt");
+
+		int loadedX, loadedY, loadedW, loadedVel;
+		if (file >> loadedX >> loadedY >> loadedW >> loadedVel)
+		{
+			x = loadedX;
+			y = loadedY;
+			w = orig_w = loadedW;
+			vel = loadedVel;
+
+			_player.setSize(sf::Vector2f(w, h));
+			_player.setPosition(x, y);
+		}
+
+		file.close();
+	}
 
 private:
 	int orig_w=0;

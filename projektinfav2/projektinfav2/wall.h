@@ -17,7 +17,33 @@ public:
 			}
 		}
 	}
+	void loadBricksFromFile()
+	{
+		clear();
 
+		std::ifstream file("wall_save.txt");
+
+		int x, y, resistance;
+		while (file >> x >> y >> resistance)
+		{
+			brick b(40, 10, x, y, resistance);
+			this->bricks.push_back(b);
+			this->tot_bricks += 1;
+		}
+
+		file.close();
+	}
+	void saveBricksToFile()
+	{
+		std::ofstream file("wall_save.txt");
+
+		for (auto& brick : this->bricks)
+		{
+			file << brick.getX() << " " << brick.getY() << " " << brick.getResistance() << "\n";
+		}
+
+		file.close();
+	}
 	void generateGrid()
 	{
 		for(int y=50; y< this->h; y+=20)
@@ -40,14 +66,13 @@ public:
 		}
 	}
 
-	void removeDestroyed(unsigned int &player_score, bool fortune_stat)
+	void removeDestroyed( int &player_score)
 	{
 		for(auto brick=this->bricks.begin(); brick != bricks.end(); ++brick)
 		{
 			if((*brick).isDestroy())
 			{
-				if(fortune_stat) player_score+=(*brick).getPoints()*2;
-				else player_score+=(*brick).getPoints();
+				player_score+=(*brick).getPoints();
 				this->bricks.erase(brick);
 				--brick;
 				this->tot_bricks--;
@@ -92,6 +117,8 @@ public:
 	{
 		for(auto &brick : this->bricks) brick.draw(window);
 	}
+
+
 
 private:
 	int w=580;

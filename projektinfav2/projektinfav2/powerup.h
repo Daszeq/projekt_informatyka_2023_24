@@ -38,12 +38,44 @@ public:
 	{
 		return this->_take;
 	}
+	int getX()
+	{
+		return _power.getPosition().x;
+	}
 
+	int getY()
+	{
+		return _power.getPosition().y;
+	}
 	void draw(sf::RenderWindow &window)
 	{
 		window.draw(_power);
 	}
+	void savePowerupToFile()
+	{
+		std::ofstream file("powerup_save.txt");
 
+		file << getX() << " " << getY() << " " << getType() << " " << isTake() << "\n";
+
+		file.close();
+	}
+
+	void loadPowerupFromFile()
+	{
+		std::ifstream file("powerup_save.txt");
+
+		int loadedX, loadedY, loadedType;
+		bool loadedTake;
+
+		if (file >> loadedX >> loadedY >> loadedType >> loadedTake)
+		{
+			setPosition(loadedX, loadedY);
+			type = loadedType;
+			_take = loadedTake;
+		}
+
+		file.close();
+	}
 private:
 	int type=0;
 	bool _take=0;
